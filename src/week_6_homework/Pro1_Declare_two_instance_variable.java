@@ -1,4 +1,4 @@
-package homeworkweek6;
+package week_6_homework;
 
 public class Pro1_Declare_two_instance_variable {
 

@@ -1,4 +1,4 @@
-package homeworkweek6;
+package week_6_homework;
 
 public class Pro6_radius {
 
